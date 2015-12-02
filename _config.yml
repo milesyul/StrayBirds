@@ -119,6 +119,9 @@ username: milesyul
 baseurl: /blog
 markdown: redcarpet
 safe: false
+pygments: true
+excerpt_separator: "\n\n\n"
+paginate: 5	
 highlighter: pygments
 title: 木兰词
 description: 人生若只如初见
