@@ -123,9 +123,9 @@ pygments: true
 excerpt_separator: "\n\n\n"
 paginate: 5	
 highlighter: pygments
-title: Yuan为世所长
+title: 记录点滴
 description: 人生若只如初见
-theme: slate
+theme: minimal
 disqusname: milesyul
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
